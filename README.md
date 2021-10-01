@@ -1,8 +1,8 @@
 # Minecraft-Blood-Magic-1.16.5-Traditional-Chinese-Translation
 
 Required:
-Minecraft 1.16.5
-Forge 1.16.5
+Minecraft 1.16.5, 
+Forge 1.16.5, 
 Blodd-Magic-1.16.5
 
 How To Use:
